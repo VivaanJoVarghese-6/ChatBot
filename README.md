@@ -1,7 +1,7 @@
 # StudyBuddy Chatbot
 
 StudyBuddy is a Flask-based chatbot designed for friendly conversation, beginner web-development questions, and study support. The entire web app now runs from `app.py`, which serves the interface and handles chatbot replies.
-
+Video Link = https://go.screenpal.com/watch/cOfDbUnODD2
 ## Requirements
 
 Before running the project, make sure you have:
