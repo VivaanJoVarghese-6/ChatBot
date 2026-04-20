@@ -1,3 +1,5 @@
+## video link - https://www.kapwing.com/w/KoQM1s2PRn
+
 # StudyBuddy AI Chatbot
 
 A simple Flask-based chatbot with AI mode (DeepSeek via GitHub Models) and an offline rule-based fallback.
