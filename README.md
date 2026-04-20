@@ -1,4 +1,4 @@
-## video link - https://www.kapwing.com/w/KoQM1s2PRn
+## video link - [https://www.kapwing.com/w/KoQM1s2PRn](https://www.veed.io/view/ee041ed7-5dd0-4ecf-aaba-33ae9d12936c?source=editor&panel=share)
 
 # StudyBuddy AI Chatbot
 
